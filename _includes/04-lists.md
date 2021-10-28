@@ -1,0 +1,3 @@
+- Limpieza
+- Orden
+- Disciplina
